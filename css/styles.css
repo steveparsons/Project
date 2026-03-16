@@ -1,0 +1,11 @@
+.producing{
+     background-color : green;
+}
+
+.idle{
+    background-color : Yellow;
+}
+
+.starved{
+     background-color : red;
+}
